@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trainees>
+
+  
+
+  <trainee>
+    <name>Amnah</name>
+    <email>Amnah@gmail.com</email>
+    <course>Eng</course>
+  </trainee>
+
+  <trainee>
+    <name>Sarah</name>
+    <email>Sarah@gmail.com</email>
+    <course>SD</course>
+  </trainee>
+
+<trainee>
+   <name>Norah</name>
+    <email>Norah@gmail.com</email>
+    <course>IT</course>
+
+</trainee></trainees>
